@@ -2,7 +2,7 @@
 
 ## Describe your model -> fine-tuned GPT-3.5
 
-The goal of this notebook is to experiment with a new way to make it very easy to build a task-specific model for your use-case.
+The goal of this project is to experiment with a new way to make it very easy to build a task-specific model for your use-case.
 
 First, use the best GPU available (go to Runtime -> change runtime type)
 
